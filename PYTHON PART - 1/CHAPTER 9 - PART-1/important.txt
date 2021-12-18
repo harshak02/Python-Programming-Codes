@@ -1,0 +1,3 @@
+here if we use the "r" or "w" or "a" we open them in 
+the text format if we wanted to open in 
+binary text then use "rb" or "wb" or "ab"

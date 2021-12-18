@@ -1,0 +1,10 @@
+'''if we are creating a base class with constructor and  derived
+class without a constructor then pls add a blank constructor in
+the base class or create a constructor in the derived clas also
+here in c++ we need to create like derived : pubblic XXXX ,public XXXX
+but in python we can create the independent constructor in the
+derived class if base cls sconstructor should be run then put like
+super().__init__()'''
+
+'''for multiple inheritance if we wanted to write the super().
+we need to write the BaseClassName().__init__(self,....)'''

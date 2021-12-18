@@ -1,0 +1,12 @@
+PascalCase :
+HelloWorld
+HiUniverseWorld
+InFloat
+
+camelCase :
+helloWorld
+HiUniverseWorld
+inFloat
+
+
+class name should be present in PascalCase

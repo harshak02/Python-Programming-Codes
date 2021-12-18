@@ -1,0 +1,4 @@
+def __sub__(self,n2) -> this is for subtraction
+def __freediv__(self,n2) -> this is for division
+def __add__(self,n2) -> this is for addition
+def __mul__(self,n2) -> this is for multiplication
